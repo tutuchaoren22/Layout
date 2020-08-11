@@ -14,7 +14,7 @@ public class FrameActivity extends AppCompatActivity {
         setContentView(R.layout.activity_frame);
         Button button = findViewById(R.id.back);
         button.setOnClickListener(
-                new View.OnClickListener(){
+                new View.OnClickListener() {
                     @Override
                     public void onClick(View view) {
                         finish();
