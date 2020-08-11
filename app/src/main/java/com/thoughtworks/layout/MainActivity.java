@@ -13,12 +13,23 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Button button = findViewById(R.id.button2);
-        button.setOnClickListener(
+        Button button_frame = findViewById(R.id.button2);
+        button_frame.setOnClickListener(
                 new View.OnClickListener(){
                     @Override
                     public void onClick(View view) {
                         Intent intent = new Intent(MainActivity.this, FrameActivity.class);
+                        startActivity(intent);
+                    }
+                }
+        );
+
+        Button button_constraint = findViewById(R.id.button1);
+        button_constraint.setOnClickListener(
+                new View.OnClickListener(){
+                    @Override
+                    public void onClick(View view) {
+                        Intent intent = new Intent(MainActivity.this, ConstraintActivity.class);
                         startActivity(intent);
                     }
                 }

@@ -33,7 +33,7 @@
                 android:layout_height="70dp"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="20dp"
-                android:text="@string/button_name1"
+                android:text="@string/button_name1_detail"
                 android:textAllCaps="false" />
 
             <Button
