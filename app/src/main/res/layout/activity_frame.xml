@@ -97,7 +97,8 @@
                 android:layout_height="70dp"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="20dp"
-                android:text="@string/button_name9" />
+                android:text="@string/button_name9"
+                android:textAllCaps="false" />
 
             <Button
                 android:layout_width="match_parent"
