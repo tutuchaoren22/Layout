@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Layout</string>
-    <string name="button_name1" translatable="false">按钮 1</string>
-    <string name="button_name2" translatable="false">按钮 2</string>
-    <string name="button_name3" translatable="false">按钮 3</string>
+    <string name="button_name1">按钮 1</string>
+    <string name="button_name2">按钮 2</string>
+    <string name="button_name3">按钮 3</string>
+    <string name="button_name4">按钮 4</string>
+    <string name="button_name5">按钮 5</string>
+    <string name="button_name6">按钮 6</string>
+    <string name="button_name7">按钮 7</string>
+    <string name="button_name8">按钮 8</string>
+    <string name="button_name9">按钮 9</string>
+    <string name="button_name10">按钮 10</string>
+    <string name="android_practice">Android 练习</string>
 </resources>
