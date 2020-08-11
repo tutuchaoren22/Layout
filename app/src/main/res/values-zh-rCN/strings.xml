@@ -2,7 +2,8 @@
 <resources>
     <string name="app_name">Layout</string>
     <string name="button_name1">按钮 1</string>
-    <string name="button_name2">frame_layout</string>
+    <string name="button_name2_main">frame_layout</string>
+    <string name="button_name2_detail">按钮 2</string>
     <string name="button_name3">按钮 3</string>
     <string name="button_name4">按钮 4</string>
     <string name="button_name5">按钮 5</string>
