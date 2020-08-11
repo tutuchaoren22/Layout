@@ -14,6 +14,7 @@
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="20dp"
         android:text="@string/button_name1_main"
+        android:textSize="20dp"
         android:textAllCaps="false" />
 
     <Button
@@ -23,6 +24,7 @@
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="20dp"
         android:text="@string/button_name2_main"
+        android:textSize="20dp"
         android:textAllCaps="false" />
 
     <Button
@@ -31,5 +33,6 @@
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="20dp"
         android:text="@string/button_name3"
+        android:textSize="20dp"
         android:textAllCaps="false" />
 </LinearLayout>
