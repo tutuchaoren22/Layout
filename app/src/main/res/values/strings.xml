@@ -13,4 +13,7 @@
     <string name="button_name9">button 9</string>
     <string name="button_name10">button 10</string>
     <string name="android_practice">Android practice</string>
+    <string name="hello">Hello!</string>
+    <string name="button_signup">Signup</string>
+    <string name="button_Login">Login</string>
 </resources>
