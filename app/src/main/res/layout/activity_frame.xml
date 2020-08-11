@@ -10,10 +10,11 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="20dp"
         android:layout_marginTop="20dp"
         android:text="@string/android_practice"
-        android:textSize="30dp" />
+        android:textSize="30sp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="20dp" />
 
     <ScrollView
         android:layout_width="match_parent"
@@ -22,7 +23,7 @@
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="wrap_content"
             android:orientation="vertical"
             android:paddingHorizontal="20dp">
 
@@ -35,7 +36,7 @@
                 android:layout_marginTop="20dp"
                 android:text="@string/button_name1_detail"
                 android:textAllCaps="false"
-                android:textSize="20dp" />
+                android:textSize="20sp" />
 
             <Button
                 android:layout_width="match_parent"
@@ -44,7 +45,7 @@
                 android:layout_marginTop="20dp"
                 android:text="@string/button_name2_detail"
                 android:textAllCaps="false"
-                android:textSize="20dp" />
+                android:textSize="20sp" />
 
             <Button
                 android:layout_width="match_parent"
@@ -53,7 +54,7 @@
                 android:layout_marginTop="20dp"
                 android:text="@string/button_name3"
                 android:textAllCaps="false"
-                android:textSize="20dp" />
+                android:textSize="20sp" />
 
             <Button
                 android:layout_width="match_parent"
@@ -62,7 +63,7 @@
                 android:layout_marginTop="20dp"
                 android:text="@string/button_name4"
                 android:textAllCaps="false"
-                android:textSize="20dp" />
+                android:textSize="20sp" />
 
             <Button
                 android:layout_width="match_parent"
@@ -71,7 +72,7 @@
                 android:layout_marginTop="20dp"
                 android:text="@string/button_name5"
                 android:textAllCaps="false"
-                android:textSize="20dp" />
+                android:textSize="20sp" />
 
             <Button
                 android:layout_width="match_parent"
@@ -80,7 +81,7 @@
                 android:layout_marginTop="20dp"
                 android:text="@string/button_name6"
                 android:textAllCaps="false"
-                android:textSize="20dp" />
+                android:textSize="20sp" />
 
             <Button
                 android:layout_width="match_parent"
@@ -89,7 +90,7 @@
                 android:layout_marginTop="20dp"
                 android:text="@string/button_name7"
                 android:textAllCaps="false"
-                android:textSize="20dp" />
+                android:textSize="20sp" />
 
             <Button
                 android:layout_width="match_parent"
@@ -98,7 +99,7 @@
                 android:layout_marginTop="20dp"
                 android:text="@string/button_name8"
                 android:textAllCaps="false"
-                android:textSize="20dp" />
+                android:textSize="20sp" />
 
             <Button
                 android:layout_width="match_parent"
@@ -107,7 +108,7 @@
                 android:layout_marginTop="20dp"
                 android:text="@string/button_name9"
                 android:textAllCaps="false"
-                android:textSize="20dp" />
+                android:textSize="20sp" />
 
             <Button
                 android:layout_width="match_parent"
@@ -116,7 +117,7 @@
                 android:layout_marginTop="20dp"
                 android:text="@string/button_name10"
                 android:textAllCaps="false"
-                android:textSize="20dp" />
+                android:textSize="20sp" />
         </LinearLayout>
     </ScrollView>
 </FrameLayout>

@@ -16,4 +16,5 @@
     <string name="hello">Hello!</string>
     <string name="button_signup">Signup</string>
     <string name="button_Login">Login</string>
+    <string name="user_head">user head</string>
 </resources>
