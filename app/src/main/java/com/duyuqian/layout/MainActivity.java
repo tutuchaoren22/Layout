@@ -1,4 +1,4 @@
-package com.thoughtworks.layout;
+package com.duyuqian.layout;
 
 import android.content.Intent;
 import android.os.Bundle;

@@ -1,4 +1,4 @@
-package com.thoughtworks.layout;
+package com.duyuqian.layout;
 
 import org.junit.Test;
 

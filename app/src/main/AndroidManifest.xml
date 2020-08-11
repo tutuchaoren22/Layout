@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.thoughtworks.layout">
+    package="com.duyuqian.layout">
 
     <application
         android:allowBackup="true"
@@ -10,20 +10,20 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".ConstraintActivity"
-            android:parentActivityName=".MainActivity">
+            android:name="com.duyuqian.layout.ConstraintActivity"
+            android:parentActivityName="com.duyuqian.layout.MainActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".MainActivity" />
+                android:value="com.duyuqian.layout.MainActivity" />
         </activity>
         <activity
-            android:name=".FrameActivity"
-            android:parentActivityName=".MainActivity">
+            android:name="com.duyuqian.layout.FrameActivity"
+            android:parentActivityName="com.duyuqian.layout.MainActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".MainActivity" />
+                android:value="com.duyuqian.layout.MainActivity" />
         </activity>
-        <activity android:name=".MainActivity">
+        <activity android:name="com.duyuqian.layout.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
